@@ -1,3 +1,1 @@
-print("test")
-print("im osch")
-print("im osch")
+print("test2")
